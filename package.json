@@ -52,6 +52,7 @@
     "type": "git"
   },
   "devDependencies": {
+    "@types/react-test-renderer": "^18.0.7",
     "@babel/preset-env": "^7.24.0",
     "@babel/preset-react": "^7.23.3",
     "@rollup/plugin-image": "^3.0.3",
@@ -73,7 +74,7 @@
     "typescript": "^5.4.2"
   },
   "dependencies": {
-    "@types/react-test-renderer": "^18.0.7"
+    
   },
   "jest": {
     "moduleNameMapper": {
