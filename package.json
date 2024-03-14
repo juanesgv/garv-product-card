@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "1.0.0-rc",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -48,7 +48,7 @@
     }
   ],
   "repository": {
-    "url": "https://github.com/juanesgv/garv-product-card",
+    "url": "git+https://github.com/juanesgv/garv-product-card.git",
     "type": "git"
   },
   "devDependencies": {
@@ -73,9 +73,7 @@
     "tslib": "^2.6.2",
     "typescript": "^5.4.2"
   },
-  "dependencies": {
-    
-  },
+  "dependencies": {},
   "jest": {
     "moduleNameMapper": {
       "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "identity-obj-proxy",
